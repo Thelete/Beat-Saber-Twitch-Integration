@@ -7,7 +7,6 @@ using TMPro;
 using System.Collections;
 using System.IO;
 using SongLoaderPlugin;
-using System.Collections.Generic;
 using UnityEngine.Networking;
 using SimpleJSON;
 using ICSharpCode.SharpZipLib.Zip;
